@@ -1,20 +1,15 @@
-<<<<<<< HEAD
-# Scholar_Chat
+# Chat App
 
-A new Flutter project.
+Scolar Chat App is a simple chat app built with Flutter, utilizing Firebase for authentication and real-time communication.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- User Registration: Users can create an account with a valid email and password.
+- User Login: Registered users can log in using their credentials.
+- Real-time Chat: Users can engage in real-time chat with other users.
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Chat-App
->>>>>>> origin/main
+- Firebase:  used for authentication and real-time database. (Sign up, Login in , Authentication , Validation , Firestore )
+- Flutter
+- Dart
